@@ -21,7 +21,7 @@
 - The templates are in the folder blueprint.
 
 ### New Year Website
-- Link - [Birthday Website]()
+- Link - [Birthday Website](https://happy-birthday-website-sooty.vercel.app)
 
 ## Author
 

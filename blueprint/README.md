@@ -90,7 +90,7 @@ npm run blueprint
 
 ## Useful Resources
 - [Tailwind Website](https://tailwindcss.com/)
-- Link - [New Year Website]()
+- Link - [New Year Website](https://happy-birthday-website-sooty.vercel.app)
 
 **More content to be added, feel free to add any engaging content**
 
