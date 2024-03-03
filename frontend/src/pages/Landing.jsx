@@ -10,8 +10,8 @@ const Landing = () => {
             <div className="max-w-4xl mx-4 xl:mx-auto bg-transparent backdrop-blur-3xl shadow-2xl rounded-3xl">
                 <div className="flex flex-col justify-center items-center text-white m-4">
                     <div className="flex flex-col items-center justify-center py-4 sm:px-16">
-                        <h1 className="text-6xl md:text-7xl font-semibold font-Tangerine py-4">Happy Birthday</h1>
-                        <p className="text-sm sm:text-lg">
+                        <h1 className="text-6xl font-semibold font-Tangerine py-4">Happy Birthday</h1>
+                        <p className="text-md">
                             Do you know whats gonna happen in this new year, a canvas painted with laughter, 
                             money, and endless possibilities. On this special day, I want to take a moment to 
                             celebrate the incredible person you are.<br/><br/>
