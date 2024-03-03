@@ -6,7 +6,7 @@
     - [Introduction](#introduction)
 - [Process + Development](#process-+-development)
     - [HTML + CSS + Tailwind Development](#html-+-css+-tailwind-development)
-    - [Birthday Website](#new-year-website)
+    - [Birthday Website](#birthday-website)
 - [Author](#author)
 
 ## Overview
@@ -20,9 +20,15 @@
 - This section shows the code templates.
 - The templates are in the folder blueprint.
 
-### New Year Website
+### Birthday Website
 - Link - [Birthday Website](https://happy-birthday-website-sooty.vercel.app)
+
+## React Development
+- This section identifies the React code development. The templates have been modified to become reactive. 
+- The codes are in the folder frontend.
+
+**This process only covers the Desing and Development Phases**
 
 ## Author
 
-- Momanyi Brian - [Portfolio Website](https://momanyi-brian-portfolio.vercel.app)
+- [Momanyi Brian](https://momanyi-brian-portfolio.vercel.app)
