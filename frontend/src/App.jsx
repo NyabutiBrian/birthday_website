@@ -1,7 +1,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Landing from './pages/Landing';
 
-import { Analytics } from "@vercel/analytics/react"
+// import { inject } from '@vercel/analytics';
+
+// inject();
 
 function App() {
 
