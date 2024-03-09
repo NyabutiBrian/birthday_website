@@ -29,52 +29,5 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
-
-    <!-- Place this script at the end of the body tag -->
-    <script type="text/javascript" src="/js/finisher-header.es5.min.js"></script>
-<script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", function() {
-    if (window.innerWidth > 0) { // Adjust the width threshold as needed
-      new FinisherHeader({
-        "count": 10,
-        "size": {
-          "min": 900,
-          "max": 1500,
-          "pulse": 1.5
-        },
-        "speed": {
-          "x": {
-            "min": 0.1,
-            "max": 0.6
-          },
-          "y": {
-            "min": 0.1,
-            "max": 0.6
-          }
-        },
-        "colors": {
-          "background": "#9138e5",
-          "particles": [
-            "#ff4848",
-            "#000000",
-            "#2235e5",
-            "#000000",
-            "#ff0000"
-          ]
-        },
-        "blending": "overlay",
-        "opacity": {
-          "center": 0.5,
-          "edge": 0.05
-        },
-        "skew": 0,
-        "shapes": [
-          "c"
-        ]
-      });
-    }
-  });
-</script>
-
   </body>
 </html>
