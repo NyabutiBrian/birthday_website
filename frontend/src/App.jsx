@@ -1,9 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
 import Landing from './pages/Landing';
-
-// import { inject } from '@vercel/analytics';
-
-// inject();
+import List from './pages/List';
 
 function App() {
 
@@ -12,6 +10,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Landing />} />
+          <Route path="/list" element={<List />} />
         </Routes>
       </BrowserRouter>
     </>
