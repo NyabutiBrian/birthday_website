@@ -12,7 +12,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="/list" element={<List />} />
-          <Route path="/to" element={<To />} />
+          <Route path="/to/:slug" element={<To />} />
         </Routes>
       </BrowserRouter>
     </>
