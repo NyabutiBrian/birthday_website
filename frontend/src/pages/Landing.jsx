@@ -2,6 +2,7 @@ import React from 'react'
 
 import audio1 from '../assets/songs/birthday.mp3'
 import gif1 from '../assets/images/giphy3.gif'
+import todelete from '../assets/images/screenshot.webp'
 
 const Landing = () => {
   return (
@@ -20,6 +21,10 @@ const Landing = () => {
                             May you always be surrounded by love, happiness, and all the good things life has to offer.<br/><br/>
 
                             Good Vibes and Inshallah <span>&#128165;</span><br/>
+
+                            <div>
+                                <img src={todelete} alt="to be deleted" width='100px' height='100px' />
+                            </div>
 
                             <span className="font-Tangerine text-4xl font-semibold"><a href="https://momanyi-brian-portfolio.vercel.app" target="Portfolio Website">Momanyi_Brian</a></span>
                             
